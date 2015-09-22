@@ -1,0 +1,8 @@
+rhodes_path='/Users/amyng/.rvm/gems/ruby-1.9.3-p551/gems/rhodes-5.1.1.1'
+app_version='1.0'
+app_name='Appleone'
+reload_app_changes=1
+debug_port=
+debug_host='127.0.0.1'
+platform='iphone'
+ext_path=/Users/amyng/.rvm/gems/ruby-1.9.3-p551/gems/rhodes-5.1.1.1/lib/commonAPI/coreapi;/Users/amyng/.rvm/gems/ruby-1.9.3-p551/gems/rhodes-5.1.1.1/lib/extensions/json;/Users/amyng/.rvm/gems/ruby-1.9.3-p551/gems/rhoconnect-client-5.0.25.3/lib/../ext/rhoconnect-client;
